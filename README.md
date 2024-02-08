@@ -5,13 +5,9 @@
 
 
 
-## Glad to see you here!
+👋 Hey there! I'm Wojciech, a second-year computer science student with a passion for full-stack development. Programming isn't just my academic pursuit; it's also my favorite hobby. I love diving into both front-end and back-end technologies to create innovative solutions. Outside of coding, I'm a people person who enjoys meeting new folks and learning from their experiences. Feel free to reach out—I'm always up for a chat!
 
-I am a student full-stack software engineer. I love programming, reading, writing and speaking.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
