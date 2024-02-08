@@ -18,7 +18,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
 - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-- Spring Boot 3, Spring 6 & Hibernate from <a href="#"><img alt="React" src="https://www.udemy.com/course/spring-hibernate-tutorial/"></a>
+- Spring Boot 3, Spring 6 & Hibernate from <a href="#"><img alt="Udemy" src="[https://www.udemy.com/course/spring-hibernate-tutorial/](https://www.udemy.com/course/spring-hibernate-tutorial/)"></a>
 - 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
 - 📬 How to reach me: [wojtek.sitarek@gmail.com](mailto:wojtek.sitarek@gmail.com)
 - 💪 This is where I code and solve problems:
