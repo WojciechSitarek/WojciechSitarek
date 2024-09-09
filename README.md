@@ -14,11 +14,11 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **2nd year student with specialization: cloud computing**
+- 👨‍🎓 I'm a **3nd year student with specialization: cloud computing**
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
 - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-- Spring Boot 3, Spring 6 & Hibernate
+- Microservices with Java, Spring Boot, Spring Cloud, Docker, Kubernetes, Helm, Microservices Security
 - 📬 How to reach me: [wojtek.sitarek@gmail.com](mailto:wojtek.sitarek@gmail.com)
 - 💪 This is where I code and solve problems:
 &nbsp;
