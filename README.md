@@ -52,7 +52,7 @@
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6.svg?logo=microsoft-azure&logoColor=white"></a>
-
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
 </p>
 
 
